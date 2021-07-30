@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Önder Ertan
-- 👀 I’m interested in programming, e-commerce and information systems
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in programming and ML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to participate in projects and internships
 
 <!---
