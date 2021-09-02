@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to participate in projects and internships
 
-[![3rt4nm4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=3rt4nm4n)](https://github.com/3rt4nm4n/github-readme-stats)
+[![3rt4nm4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=3rt4nm4n&theme=radical&show_icons=true)](https://github.com/3rt4nm4n/github-readme-stats)
 
 
 <!---
