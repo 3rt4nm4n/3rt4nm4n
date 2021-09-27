@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Önder Ertan
 - 👀 I’m interested in programming and ML
-- 🌱 I’m currently learning Python
+- 🌱 Learning Python.
+- :nut_and_bolt: Mastering C#
 - 💞️ I’m looking to participate in projects and internships
 
 [![3rt4nm4n's GitHub stats](https://github-readme-stats.vercel.app/api?username=3rt4nm4n&theme=radical&show_icons=true)](https://github.com/3rt4nm4n/github-readme-stats)
