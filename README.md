@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Önder Ertan
-- 👀 I’m interested in programming and ML
-- 🌱 Learning Python.
+- 👀 I’m a software developer and pixel artist
+- 🌱 Learning Django
 - :nut_and_bolt: Mastering C#
 - 💞️ I’m looking to participate in projects and internships
 
