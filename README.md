@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Önder Ertan
 - 👀 I’m a software developer and pixel artist
-- 🌱 Learning Django
 - :nut_and_bolt: Working with ML
-- 💞️ I’m looking for software development jobs
 
 ----
 
