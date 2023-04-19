@@ -24,13 +24,3 @@
 
 ----
 
-### Stats
-
-![3rt4nm4n's Stats](https://raw.githubusercontent.com/3rt4nm4n/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Langs](https://raw.githubusercontent.com/3rt4nm4n/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3rt4nm4n&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-3rt4nm4n/3rt4nm4n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
