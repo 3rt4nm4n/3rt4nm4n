@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Önder Ertan
 - 👀 I’m a software developer and pixel artist
-- :nut_and_bolt: Working with ML
+- :heart: I love Python
 
 ----
 
